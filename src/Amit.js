@@ -9,16 +9,16 @@ export const products = [
     {
       id: 2,
       name: 'ganda',
-      imageUrl: './ganda.jpg',
+      imageUrl: '.ganda.jpg',
       description: 'This is another great product.',
       price: '800.00',
     },
     {
       id: 3,
-      name: 'Rocket 🚀',
-      imageUrl: './images/rocket_liftoff.jpg',
+      name: 'Roohtak 🚀',
+      imageUrl: './images/ganda.jpg',
       description: 'This is another great product.',
-      price: '$20.00',
+      price: '$210.00',
     },
     {
         id: 4,
