@@ -2,9 +2,9 @@ export const products = [
     {
       id: 1,
       name: 'Product 1',
-      imageUrl: './images/1.jpeg',
+      imageUrl: './images/odoniljpg',
       description: 'This is a great product.',
-      price: '$10.00',
+      price: '99.00',
     },
     {
       id: 2,
