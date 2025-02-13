@@ -8,6 +8,7 @@ const Product = ({ product }) => {
       <img src={product.imageUrl} alt={product.name} />
       <p>{product.description}</p>
       <p>{product.price}</p>
+      <a href='https://wa.me/+919255255652'><button type="button">Contact Me</button></a>
     </div>
   );
 };
