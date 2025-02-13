@@ -8,7 +8,7 @@ export const products = [
     },
     {
       id: 2,
-      name: 'Product Gamma',
+      name: 'Product Gamma11111',
       imageUrl: './images/2.jpeg',
       description: 'This is another great product.',
       price: '$20.00',
