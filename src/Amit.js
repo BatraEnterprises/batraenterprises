@@ -1,8 +1,8 @@
 export const products = [
     {
       id: 1,
-      name: 'Product 1',
-      imageUrl: './images/odoniljpg',
+      name: 'odonil',
+      imageUrl: './images/odonil.jpg',
       description: 'This is a great product.',
       price: '99.00',
     },
