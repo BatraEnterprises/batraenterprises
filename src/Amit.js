@@ -8,10 +8,10 @@ export const products = [
     },
     {
       id: 2,
-      name: 'Product Gamma11111',
-      imageUrl: './images/2.jpeg',
+      name: 'ganda',
+      imageUrl: './ganda.jpg',
       description: 'This is another great product.',
-      price: '$20.00',
+      price: '800.00',
     },
     {
       id: 3,
