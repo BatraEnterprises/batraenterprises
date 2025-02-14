@@ -15,7 +15,7 @@ export const products = [
     },
     {
       id: 3,
-      name: 'room',
+      name: 'ROOM FRESHNER',
       imageUrl: './images/room.jpg',
       description: 'This is another best one product.',
       price: '₹150.00',
