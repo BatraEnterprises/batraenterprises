@@ -29,10 +29,10 @@ export const products = [
       },
       {
         id: 5,
-        name: 'Product 3x',
-        imageUrl: './images/6.JPG',
+        name: 'COLIN',
+        imageUrl: './images/colin.jpg',
         description: 'This is another great product.',
-        price: '$20.00',
+        price: '45.00',
       },
       {
         id: 6,
