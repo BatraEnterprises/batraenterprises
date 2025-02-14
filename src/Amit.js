@@ -43,10 +43,10 @@ export const products = [
       },
     {
         id: 7,
-        name: 'Product 3x',
-        imageUrl: './images/8.jpg',
-        description: 'This is another great product.',
-        price: '$20.00',
+        name: 'AIR POCKET',
+        imageUrl: './images/AIRPOCKET.jpg',
+        description: 'FOR TOILET & FOUR WEHILER.',
+        price: '60.00',
       },
     {
         id: 8,
