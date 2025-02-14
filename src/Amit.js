@@ -51,7 +51,7 @@ export const products = [
     {
         id: 8,
         name: 'BOROSIL GLASS 6PC SET',
-        imageUrl: './images/BOROSIL.jpg',
+        imageUrl: './images/borosil.jpg',
         description: 'This use in office & home product.',
         price: '500.00',
       },
