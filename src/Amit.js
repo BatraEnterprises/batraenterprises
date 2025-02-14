@@ -11,14 +11,14 @@ export const products = [
       name: 'Genda',
       imageUrl: './images/ganda.jpg',
       description: 'This is another great product.',
-      price: '₹800.00',
+      price: '₹100.00',
     },
     {
       id: 3,
-      name: 'Honda Chowk',
-      imageUrl: './images/ganda.jpg',
+      name: 'room',
+      imageUrl: './images/room.jpg',
       description: 'This is another great product.',
-      price: '₹210.00',
+      price: '₹150.00',
     },
     {
         id: 4,
