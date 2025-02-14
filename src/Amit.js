@@ -36,10 +36,10 @@ export const products = [
       },
       {
         id: 6,
-        name: 'room freshner',
-        imageUrl: './images/fresh.jpg',
+        name: 'harpik',
+        imageUrl: './images/harpik.jpg',
         description: 'This is best product.',
-        price: '150.00',
+        price: '45.00',
       },
     {
         id: 7,
