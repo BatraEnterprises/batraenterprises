@@ -36,10 +36,10 @@ export const products = [
       },
       {
         id: 6,
-        name: 'Product 3x',
-        imageUrl: './images/8.jpg',
-        description: 'This is another great product.',
-        price: '$20.00',
+        name: 'room freshner',
+        imageUrl: './images/fresh.jpg',
+        description: 'This is best product.',
+        price: '150.00',
       },
     {
         id: 7,
