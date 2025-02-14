@@ -2,9 +2,9 @@ export const products = [
     {
       id: 1,
       name: 'Odonil',
-      imageUrl: './images/odonil.jpg',
+      imageUrl: './images/odonel.jpg',
       description: 'This is a great product.',
-      price: '₹99.00',
+      price: '₹40.00',
     },
     {
       id: 2,
