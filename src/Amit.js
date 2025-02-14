@@ -17,7 +17,7 @@ export const products = [
       id: 3,
       name: 'room',
       imageUrl: './images/room.jpg',
-      description: 'This is another best product.',
+      description: 'This is another best one product.',
       price: '₹150.00',
     },
     {
