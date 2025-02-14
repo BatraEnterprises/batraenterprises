@@ -57,10 +57,10 @@ export const products = [
       },
     {
         id: 9,
-        name: 'Product 3x',
-        imageUrl: './images/8.jpg',
-        description: 'This is another great product.',
-        price: '$20.00',
+        name: 'LIQUID HAND WASH 5LTR',
+        imageUrl: './images/HANDWASH.jpg',
+        description: 'This is use home & office.',
+        price: '280.00',
       },
     {
         id: 10,
