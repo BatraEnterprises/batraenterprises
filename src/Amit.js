@@ -50,10 +50,10 @@ export const products = [
       },
     {
         id: 8,
-        name: 'Product 3x',
-        imageUrl: './images/8.jpg',
-        description: 'This is another great product.',
-        price: '$20.00',
+        name: 'BOROSIL GLASS 6PC SET',
+        imageUrl: './images/BOROSIL.jpg',
+        description: 'This use in office & home product.',
+        price: '500.00',
       },
     {
         id: 9,
