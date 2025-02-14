@@ -8,7 +8,7 @@ export const products = [
     },
     {
       id: 2,
-      name: 'Genda',
+      name: 'Ganda white phenyle 5 ltr',
       imageUrl: './images/ganda.jpg',
       description: 'This is another great product.',
       price: '₹100.00',
