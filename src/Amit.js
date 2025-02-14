@@ -23,7 +23,7 @@ export const products = [
     {
         id: 4,
         name: 'A4 PAPER',
-        imageUrl: './images/paper.jpg',
+        imageUrl: './images/paper.JPG',
         description: 'This is another great product.',
         price: '210.00',
       },
