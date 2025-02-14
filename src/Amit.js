@@ -22,9 +22,9 @@ export const products = [
     },
     {
         id: 4,
-        name: 'A4 PAPER',
-        imageUrl: './images/paper.JPG',
-        description: 'This is another great product.',
+        name: 'PAPER A4',
+        imageUrl: './images/A4paper.jpg',
+        description: 'This is one product.',
         price: '210.00',
       },
       {
