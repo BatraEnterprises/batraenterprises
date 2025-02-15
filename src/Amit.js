@@ -66,7 +66,7 @@ export const products = [
         id: 10,
         name: 'TISSUE PAPER BOX',
         imageUrl: './images/tissue.jpg',
-        description: 'use in office & car.',
+        description: 'use in  office & car.',
         price: '40.00',
       },
     {
