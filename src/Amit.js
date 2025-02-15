@@ -71,10 +71,10 @@ export const products = [
       },
     {
         id: 11,
-        name: 'Product 3x',
-        imageUrl: './images/8.jpg',
-        description: 'This is another great product.',
-        price: '$20.00',
+        name: 'WATER BOTTLE 6PC',
+        imageUrl: './images/bottle.jpg',
+        description: 'This is another unique product.',
+        price: '180.00',
       },
     {
         id: 12,
