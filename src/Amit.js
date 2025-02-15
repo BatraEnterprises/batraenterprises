@@ -83,6 +83,4 @@ export const products = [
         description: 'This use for office & home.',
         price: '₹180.00',
       },
-    {
-        
     
