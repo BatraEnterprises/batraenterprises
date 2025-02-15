@@ -78,10 +78,10 @@ export const products = [
       },
     {
         id: 12,
-        name: 'Product 3x',
-        imageUrl: './images/8.jpg',
-        description: 'This is another great product.',
-        price: '$20.00',
+        name: 'SMALL DUSTBIN',
+        imageUrl: './images/dustbin.jpg',
+        description: 'This use for office & home.',
+        price: '₹180.00',
       },
     {
         
