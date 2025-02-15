@@ -36,7 +36,7 @@ export const products = [
       },
       {
         id: 6,
-        name: 'harpik',
+        name: 'HARPIK',
         imageUrl: './images/harpik.jpg',
         description: 'This is best product.',
         price: '45.00',
@@ -64,10 +64,10 @@ export const products = [
       },
     {
         id: 10,
-        name: 'Product 3x',
-        imageUrl: './images/8.jpg',
-        description: 'This is another great product.',
-        price: '$20.00',
+        name: 'TISSUE PAPER BOX',
+        imageUrl: './images/tissue.jpg',
+        description: 'use in office & car.',
+        price: '40.00',
       },
     {
         id: 11,
