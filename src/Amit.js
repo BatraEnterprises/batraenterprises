@@ -25,7 +25,7 @@ export const products = [
         name: 'PAPER A4',
         imageUrl: './images/A4paper.jpg',
         description: 'This is one product.',
-        price: '210.00',
+        price: '₹210.00',
       },
       {
         id: 5,
@@ -82,5 +82,12 @@ export const products = [
         imageUrl: './images/8.jpg',
         description: 'This is another great product.',
         price: '$20.00',
+      },
+    {
+        id: 13,
+        name: 'new 13x',
+        imageUrl: './images/bottle.jpg',
+        description: 'This is another great product.',
+        price: '₹180.00',
       },
   ];
