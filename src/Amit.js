@@ -78,9 +78,9 @@ export const products = [
       },
     {
         id: 12,
-        name: 'SMALL DUSTBIN',
-        imageUrl: './images/dustbin.jpg',
+        name: 'DOUBE LOCK',
+        imageUrl: './images/LOCK.jpg',
         description: 'This use for office & home.',
-        price: '₹180.00',
+        price: '₹250.00',
       },
     
