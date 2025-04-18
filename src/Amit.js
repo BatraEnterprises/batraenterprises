@@ -71,10 +71,10 @@ export const products = [
       },
     {
         id: 11,
-        name: 'WATER BOTTLE 6PC',
-        imageUrl: './images/bottle.jpg',
+        name: 'DOUBLE LOCK',
+        imageUrl: './images/LOCK.jpg',
         description: 'This is another unique product.',
-        price: '₹180.00',
+        price: '₹250.00',
       },
     {
         id: 12,
