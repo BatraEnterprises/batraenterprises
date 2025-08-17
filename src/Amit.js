@@ -83,4 +83,11 @@ export const products = [
         description: 'This use for office & home.',
         price: '₹250.00',
       },
-    
+
+    {
+        id: 13,
+        name: 'Tide',
+        imageUrl: './images/tide.jpg',
+        description: 'This use for home Laundary.',
+        price: '₹199.00',
+      }
