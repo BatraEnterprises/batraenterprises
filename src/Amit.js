@@ -78,14 +78,6 @@ export const products = [
       },
     {
         id: 12,
-        name: 'DOUBE LOCK',
-        imageUrl: './images/LOCK.jpg',
-        description: 'This use for office & home.',
-        price: '₹250.00',
-      },
-
-    {
-        id: 13,
         name: 'Tide',
         imageUrl: './images/tide.jpg',
         description: 'This use for home Laundary.',
