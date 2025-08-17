@@ -91,3 +91,4 @@ export const products = [
         description: 'This use for home Laundary.',
         price: '₹199.00'
       }
+    ]
