@@ -82,6 +82,13 @@ export const products = [
         imageUrl: './images/tide.jpg',
         description: 'This use for home Laundary.',
         price: '₹199.00'
+      },
+    {
+        id: 13,
+        name: 'Pen',
+        imageUrl: './images/pen1.jpg',
+        description: 'The best pen at good price',
+        price: '₹45.00'
       }
     
     ]
